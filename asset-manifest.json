@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prince-ao/static/css/main.d20bf9ec.chunk.css",
+    "main.js": "/prince-ao/static/js/main.7cce43c9.chunk.js",
+    "main.js.map": "/prince-ao/static/js/main.7cce43c9.chunk.js.map",
+    "runtime-main.js": "/prince-ao/static/js/runtime-main.1f277325.js",
+    "runtime-main.js.map": "/prince-ao/static/js/runtime-main.1f277325.js.map",
+    "static/js/2.14642d25.chunk.js": "/prince-ao/static/js/2.14642d25.chunk.js",
+    "static/js/2.14642d25.chunk.js.map": "/prince-ao/static/js/2.14642d25.chunk.js.map",
+    "index.html": "/prince-ao/index.html",
+    "static/css/main.d20bf9ec.chunk.css.map": "/prince-ao/static/css/main.d20bf9ec.chunk.css.map",
+    "static/js/2.14642d25.chunk.js.LICENSE.txt": "/prince-ao/static/js/2.14642d25.chunk.js.LICENSE.txt",
+    "static/media/blog-icon.6fa8edc0.png": "/prince-ao/static/media/blog-icon.6fa8edc0.png",
+    "static/media/github-logo.3d9251d7.png": "/prince-ao/static/media/github-logo.3d9251d7.png",
+    "static/media/nameThree.c9d0a050.glb": "/prince-ao/static/media/nameThree.c9d0a050.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f277325.js",
+    "static/js/2.14642d25.chunk.js",
+    "static/css/main.d20bf9ec.chunk.css",
+    "static/js/main.7cce43c9.chunk.js"
+  ]
+}
