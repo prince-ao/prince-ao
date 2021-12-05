@@ -1,7 +1,7 @@
 {
   "name": "personal",
   "version": "0.1.0",
-  "homepage": "https://prince-ao.github.io",
+  "homepage": "https://prince-ao.github.io/prince-ao",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^7.23.1",
