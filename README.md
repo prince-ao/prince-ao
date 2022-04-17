@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Prince Addo
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioToniolo)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-ao)
 
 **Some things about me:**
 
