@@ -9,7 +9,7 @@ I'm Prince Addo
   - Samizdat: an android frontend for libgen
 - 🌱 I’m currently learning ...
   - Android development
-  - Typescript
+  - Python
   - Compiler design
   - Data structures and algorithms
 - 📫 How to reach me ...
