@@ -1,13 +1,12 @@
 ### Hi there 👋
 I'm Prince Addo
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-ao)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-ao&layout=compact&langs_count=16&theme=dracula"/>
 
 **Some things about me:**
 
 - 🔭 I’m currently working on ...
   - Samizdat: an android frontend for libgen
-  - Resumly: a free resume generating service for computer science students and new grads
 - 🌱 I’m currently learning ...
   - Android development
   - Typescript
