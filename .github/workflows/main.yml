@@ -1,0 +1,24 @@
+name: prince-ao-action
+
+on:
+  schedule: 
+    - cron: "0 18 * * 1-5"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: prince-ao-contrib-action
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name prince-ao
+          git config user.email princeaddo608@gmail.com
+          git add -A .
+          git commit -m "README update"
+          git push
