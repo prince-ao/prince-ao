@@ -11,12 +11,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.svg
           plugin_languages: yes
-          plugin_topics_mode: icons
           plugin_traffic: yes
           plugin_languages_indepth: yes
           plugin_topics: yes
+          plugin_topics_mode: icons
           plugin_topics_limit: 12
           token: ${{ secrets.METRICS_TOKEN }}
   build:
