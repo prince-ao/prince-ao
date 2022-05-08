@@ -1,8 +1,4 @@
 ### Hi there 👋
-I'm Prince Addo
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-ao&layout=compact&langs_count=16&theme=dracula"/>
-
 **Some things about me:**
 
 - 🔭 I’m currently working on ...
@@ -16,6 +12,6 @@ I'm Prince Addo
 
 <hr/>
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
-
+![Metrics](./github-metrics.svg)
 
 
