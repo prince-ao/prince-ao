@@ -11,7 +11,8 @@
   - email: princeaddo608@gmail.com
 
 <hr/>
-<img src="./profile-3d-contrib/profile-night-view.svg"/>
-<img align="center" src="./github-metrics.svg" alt="Metrics" width="400">
-
+<div align="center">
+	<img src="./profile-3d-contrib/profile-night-view.svg"/>
+	<details><img align="center" src="./github-metrics.svg" alt="Metrics" width="400"></details>
+</div>
 
