@@ -13,6 +13,6 @@
 <hr/>
 <div align="center">
 	<img src="./profile-3d-contrib/profile-night-view.svg"/>
-	<details><summary><strong>GitHub Metrics</strong></summary><img align="center" src="./github-metrics.svg" alt="Metrics" width="400"></details>
+	<details><summary><strong>GitHub Metrics</strong></summary><img align="center" src="./github-metrics.svg" alt="Metrics" width="600"></details>
 </div>
 
