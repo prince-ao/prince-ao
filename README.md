@@ -3,8 +3,11 @@
 
 - 🔭 I’m currently working on ...
   - Samizdat: an android frontend for libgen
+  - Consumet
 - 🌱 I’m currently learning ...
   - Javascript(Again)
+  - Typescript(Again)
+  - Nodejs(Again)
   - Compiler design
   - Data structures and algorithms
 - 📫 How to reach me ...
