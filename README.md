@@ -2,8 +2,7 @@
 **Some things about me:**
 
 - 🔭 I’m currently working on ...
-  - Samizdat: an android frontend for libgen
-  - Consumet
+  - Consumet: An API for entertainment
 - 🌱 I’m currently learning ...
 	- Java
 	- Spring boot
