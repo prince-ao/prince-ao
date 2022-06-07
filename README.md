@@ -5,9 +5,9 @@
   - Samizdat: an android frontend for libgen
   - Consumet
 - 🌱 I’m currently learning ...
-  - Javascript(Again)
-  - Typescript(Again)
-  - Nodejs(Again)
+	- Java
+	- Spring boot
+	- Svelte
   - Compiler design
   - Data structures and algorithms
 - 📫 How to reach me ...
