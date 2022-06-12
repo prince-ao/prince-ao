@@ -1,12 +1,13 @@
 ### Hi there 👋
+
 **Some things about me:**
 
 - 🔭 I’m currently working on ...
   - Consumet: An API for entertainment
 - 🌱 I’m currently learning ...
-	- Java
-	- Spring boot
-	- Svelte
+  - Java
+  - Spring boot
+  - Svelte
   - Compiler design
   - Data structures and algorithms
 - 📫 How to reach me ...
@@ -14,7 +15,6 @@
 
 <hr/>
 <div align="center">
-	<img src="./profile-3d-contrib/profile-night-view.svg"/>
+	<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 	<details><summary><strong>GitHub Metrics</strong></summary><img align="center" src="./github-metrics.svg" alt="Metrics" width="600"></details>
 </div>
-
