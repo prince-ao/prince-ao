@@ -3,7 +3,7 @@
 **Some things about me:**
 
 - 🔭 I’m currently working on ...
-  - Consumet: An API for entertainment
+  - Consumet: A search engine api
 - 🌱 I’m currently learning ...
   - Java
   - Spring boot
