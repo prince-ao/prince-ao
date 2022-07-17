@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on ...
   - Consumet: A search engine api
+  - UsPlaylist: A global playlist
+  - YAAV: Yet Another Algorithm Visualizer
 - 🌱 I’m currently learning ...
   - Java
   - Spring boot
