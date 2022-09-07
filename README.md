@@ -16,3 +16,6 @@
   - email: princeaddo608@gmail.com
 
 <hr/>
+<div align="center">
+	<details><summary><strong>GitHub Metrics</strong></summary><img align="center" src="./github-metrics.svg" alt="Metrics" width="600"></details>
+</div>
