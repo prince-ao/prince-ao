@@ -16,7 +16,3 @@
   - email: princeaddo608@gmail.com
 
 <hr/>
-<div align="center">
-	<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
-	<details><summary><strong>GitHub Metrics</strong></summary><img align="center" src="./github-metrics.svg" alt="Metrics" width="600"></details>
-</div>
