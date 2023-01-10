@@ -3,12 +3,9 @@
 **Some things about me:**
 
 - 🔭 I’m currently working on ...
-  - Consumet: A search engine api
+  - Dipole: a programming language
 - 🌱 I’m currently learning ...
-  - Java
-  - Spring boot
-  - Svelte
-  - Compiler design
+  - Compiler Development and Parsing Techniques
   - Data structures and algorithms
 - 📫 How to reach me ...
   - email: princeaddo608@gmail.com
