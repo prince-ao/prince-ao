@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m currently working on Portfolify
-- I’m currently learning Bash Programming and REST
+- I’m currently working on Present.ai and Milestone.ai
+- I’m currently learning Embeddings and NLP
 - How to reach me ...
   - discord: princemfsn
