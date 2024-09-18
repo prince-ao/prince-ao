@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m currently working on CSI CS department flowchart
-- I’m currently learning Advanced Operating Systems
+- I’m currently working on easymeets
+- I’m currently learning Poker
 - How to reach me ...
   - discord: princemfsn
